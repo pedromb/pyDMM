@@ -1,6 +1,8 @@
 # pyDMM
 
-Implementation of Dirichlet Multinomial Mixture model using collapsed Gibbs sampling.
+Implementation of Dirichlet Multinomial Mixture model using collapsed Gibbs sampling
+
+The core of the implementation is in C++, which was later built into a Python module.
 
 This implementation was based on [1] and [2]
 
